@@ -10,5 +10,6 @@ type="video/webm">
 
 # Test 2
 
-https://media.githubusercontent.com/media/4z3q/4z3q.github.io/blob/main/videos/pubg/visible_around_corner_erangel.webm
+[Open fields](posts/1_open_field/README.md)
+
 
