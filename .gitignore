@@ -1,2 +1,12 @@
+# Ruby
+.bundle
+
 # IDE
-/.idea/
+.idea/
+
+# Other
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
