@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. 
+I've been playing pubg since 2022. 
 
-More info, basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+These pages show some of the many times I've died and what I could've done differently to avoid that. 
 
