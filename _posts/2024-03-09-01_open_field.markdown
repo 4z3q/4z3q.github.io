@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open Field"
+title:  "In the Open"
 date:   2024-03-01 01:00:00 +0200
 categories: PUBG
 ---
@@ -8,16 +8,212 @@ categories: PUBG
 Description
 
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-        <video width="480p" controls> 
-        <source src="https://github.com/4z3q/4z3q.github.io/blob/main/posts/1_open_field/XXX.webm?raw=true" type="video/webm"> 
-        </video> 
-<br/>
-<br/>
+<tr>
+<tr>
+  <td>
+  <iframe src="https://player.vimeo.com/video/921792754?h=b6d35860bc" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+      <br/>
+      <br/>
     </td>
     <td valign="top">
-Comments
+COMMENT: line_of_sight_advanced_miramar.webm
     </td>
-  </tr>
-</table>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/red_dot_m14_snipe_miramar.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: red_dot_m14_snipe_miramar.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/running_out_to_find_death_miramar.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: running_out_to_find_death_miramar.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/running_across_open_field_crossfire_nusa.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: running_across_open_field_crossfire_nusa.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/shot_car_ran_into_town_no_cover_erangel.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: shot_car_ran_into_town_no_cover_erangel.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/hid_in_corner_but_ran_out_into_room_miramar.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: hid_in_corner_but_ran_out_into_room_miramar.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/dont_run_open_vikendi.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: dont_run_open_vikendi.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/two_against_one_cover_advanced_erangel.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: two_against_one_cover_advanced_erangel.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/dont_walk_out_recall_point_erangel.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: dont_walk_out_recall_point_erangel.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/running_into_the_field_nusa.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: running_into_the_field_nusa.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/sniping_from_an_open_field_miramar.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: sniping_from_an_open_field_miramar.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/standing_in_the_open_erangel.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: standing_in_the_open_erangel.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/sniped_from_open_field_erangel.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: sniped_from_open_field_erangel.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/hiding_in_the_ruins_corner_two_incoming_livik.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: hiding_in_the_ruins_corner_two_incoming_livik.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/open_field_mini_with_holo_miramar.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: open_field_mini_with_holo_miramar.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/602_walking_in_open_livik.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: 602_walking_in_open_livik.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/running_through_open_field_erangel.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: running_through_open_field_erangel.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/running_open_field_sanhok.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: running_open_field_sanhok.webm
+    </td>
+  </tr><tr>
+  <td>
+      <video width="480p" controls>
+      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/01_open_field/two_against_one_flank_no_smoke_livik.webm?raw=true" type="video/webm">
+      </video>
+      <br/>
+      <br/>
+    </td>
+    <td valign="top">
+COMMENT: two_against_one_flank_no_smoke_livik.webm
+    </td>
+  </tr></table>

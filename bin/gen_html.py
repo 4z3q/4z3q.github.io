@@ -20,7 +20,7 @@ if __name__ == "__main__":
     for webm_file in glob.glob(os.path.join(dir_path, '*.webm')):
         webm_file = os.path.basename(webm_file)
         print('<tr>\n  <td>\n      <video width="480p" controls>\n', end='')
-        print(f'      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/posts/{dir_name}/{webm_file}?raw=true" '
+        print(f'      <source src="https://github.com/4z3q/4z3q.github.io/blob/main/videos/{dir_name}/{webm_file}?raw=true" '
               f'type="video/webm">\n      </video>\n', end='')
         print(f'      <br/>\n      <br/>\n    </td>\n    <td valign="top">\nCOMMENT: {webm_file}\n    </td>\n  </tr>', end='')
     print('</table>')
