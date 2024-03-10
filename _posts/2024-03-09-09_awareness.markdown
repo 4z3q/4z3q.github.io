@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Awareness"
+date:   2024-03-09 21:13:00 +0200
+categories: PUBG
+---
+
+Description
+
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+        <video width="480p" controls> 
+        <source src="https://github.com/4z3q/4z3q.github.io/blob/main/posts/9_awareness/awareness_dp2_nusa.webm?raw=true" type="video/webm"> 
+        </video> 
+<br/>
+<br/>
+    </td>
+    <td valign="top">
+Comments
+    </td>
+  </tr><tr>
+    <td>
+        <video width="480p" controls> 
+        <source src="https://github.com/4z3q/4z3q.github.io/blob/main/posts/9_awareness/longer_war_keep_track_grenade_2nd_floor.webm?raw=true" type="video/webm"> 
+        </video> 
+<br/>
+<br/>
+    </td>
+    <td valign="top">
+Comments
+    </td>
+  </tr>
+</table>
+
