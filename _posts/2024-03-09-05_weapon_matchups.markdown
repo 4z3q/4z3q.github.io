@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weapon Matchups"
-date:   2024-03-09 21:13:00 +0200
+date:   2025-09-09 21:13:00 +0200
 categories: PUBG
 ---
 

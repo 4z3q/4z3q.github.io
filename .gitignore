@@ -11,3 +11,7 @@ _site
 .jekyll-metadata
 vendor
 Gemfile.lock
+
+# stuff
+/videos/
+videos

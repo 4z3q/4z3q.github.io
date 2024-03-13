@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Standing Still"
-date:   2024-03-10 09:00:00 +0200
+date:   2025-03-10 09:00:00 +0200
 categories: PUBG
 ---
 

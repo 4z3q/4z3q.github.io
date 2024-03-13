@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Use Smokes"
-date:   2025-03-09 21:13:00 +0200
+title:  "Bad Positioning"
+date:   2024-04-09 21:13:00 +0200
 categories: PUBG
 ---
 
@@ -11,7 +11,7 @@ Description
   <tr>
     <td>
         <video width="480p" controls> 
-        <source src="https://github.com/4z3q/4z3q.github.io/blob/main/posts/7_use_smokes/running_around_the_rock_livik.webm?raw=true" type="video/webm"> 
+        <source src="https://github.com/4z3q/4z3q.github.io/blob/main/posts/6_bad_positioning/bad_positioning_karakin.webm?raw=true" type="video/webm"> 
         </video> 
 <br/>
 <br/>
@@ -21,5 +21,4 @@ Comments
     </td>
   </tr>
 </table>
-README.md
 

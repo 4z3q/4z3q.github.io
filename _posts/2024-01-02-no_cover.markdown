@@ -1,0 +1,121 @@
+---
+layout: post
+title: "No Cover"
+date: 2024-03-02 04:00:00 +0200
+categories: PUBG
+---
+
+It's one thing to run around in the open -- another mistake is to simply not use or seek cover when fighting. 
+
+Simply having a shoot-out (both players in the open) gives me a low chance of surviving, and if the other player takes 
+cover and then re-engages, that gives me even lower chances of surviving. 
+
+Each engagement should be fought in phases or rounds, separated by when the pauses when cover is voluntarily (or 
+involuntarily) broken. 
+
+Then, it becomes a game to see who can "break" each other's cover by getting a better angle on your opponent. 
+
+Lastly, the maps in PUBG are made for this situation: there is very rarely a lone house on flat plain. In fact, 
+there's very rarely even a flat plain -- even in the wheat fields, there are haystacks. 
+
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/922424283?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="No cover during engagement, Erangel"></iframe>
+    </td><td valign="top">
+Here, I needlessly move out of cover.
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/922424348?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="no_cover_against_groza_erangel"></iframe>
+    </td><td valign="top">
+Yup, instead of shooting from cover and resetting the engagement (in and out of cover), I shoot from the open. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/922424325?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="Screw up at recall point, Erangel"></iframe>
+    </td><td valign="top">
+This was early on when I started playing and I completely missed the player lying next to the recall point as I ran by. 
+<br/>
+<br/>
+Again, I'm shooting from out in the open, without any cover. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822468?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="Standing out in the open, Erangel"></iframe>
+    </td><td valign="top">
+Ironically, this player shoots maybe half of his bullets into the railing or the wall, but he still manages to kill me. 
+<br/><br/>
+The obvious lesson is using cover efficiently matters more than how well you aim. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822503?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="Shot the car, ran into town, no cover, Erangel"></iframe>
+    </td><td valign="top">
+Here, you're seeing the tail end of the engagement: I had shot at them from the village and they stopped to engage. 
+<br/>
+<br/>
+And there I am shooting at them in the open while they have cover behind a house. 
+    </td></tr>
+  <tr><td>
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822526?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="Pushing with no cover, Miramar"></iframe>
+    </td><td valign="top">
+When you're pushing a static player in cover, then it's doubly dangerous. 
+<br/>
+<br/>
+Of course, he pushes outside as well, which I'm not sure was the best move. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822544?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="Running out of Science Center, NUSA"></iframe>
+    </td><td valign="top">
+First off, notice how the other player is moving from cover to cover as he goes up the hill. This is how it should 
+be done. 
+<br/><br/>
+What you do not see, is that I run almost blindly out of Science Center, without any regard for cover. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822588?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="No cover on Miramar"></iframe>
+    </td><td valign="top">
+Another player who runs out into the open, without cover to engage. 
+<br/><br/>
+However, if you look closely, you'll notice his teammate waiting behind the shack on the right. Even if I had taken 
+them out, their teammate would have eliminated me. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822596?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="Hiding in the ruins on Livik"></iframe>
+    </td><td valign="top">
+So, this was a situation where I <i>could</i> have used cover to reset engagement and also to isolate the duo from 
+eachother. 
+<br/>
+<br/>
+But I didn't. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822607?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="hid_in_corner_but_ran_out_into_room_miramar"></iframe>
+    </td><td valign="top">
+I was doing really well, given that I surprised him from the corner and also kind of initially used cover. 
+<br/><br/>
+But then I ran out into the room, and stood there shooting him. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/922424304?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="360" frameborder="0" title="two_against_one_miramar"></iframe>
+    </td><td valign="top">
+This engagement also started fairly well, but ended badly when I gave him the advantage of <i>having cover</i>
+inside 
+the room, while I stood out on the roof <i>without cover</i>. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921792754?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="315" frameborder="0" title="video"></iframe>
+    </td><td valign="top">
+I had all of the advantages here, but then I basically just walked into their sights. 
+<br/><br/>
+If I had simply applied pressure with a grenade and then mowed them down as they ran out, I might have won the 
+engagement. 
+    </td></tr>
+  <tr><td>
+<iframe src="https://player.vimeo.com/video/921822621?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
+width="480" height="360" frameborder="0" title="video"></iframe>
+  </td><td valign="top">
+This was basically a 2 vs 3, but I destroyed any chances we had by positioning myself in the middle and in the open. 
+<br/><br/>
+I should have retreated to one of the houses and defended or attacked from there. I should have figured out which 
+angles I could take. 
+    </td></tr>
+</table>

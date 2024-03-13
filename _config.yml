@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PUBG Death Reply Lessons
+title: PUBG Death Replay Lessons
 description: >- # this means to ignore newlines until "baseurl:"
   A series of lessons based on my death replays. 
 baseurl: "" # the subpath of your site, e.g. /blog
