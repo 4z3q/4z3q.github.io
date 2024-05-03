@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Sightlines"
-date:   2025-03-04 05:00:00 +0200
+date:   2024-03-04 05:00:00 +0200
 categories: PUBG
 ---
 
-In some sense, PUBG (Mobile) is a game of "who sees who first". And preventing someone from seeing you is the same 
-as being aware of the "sightlines" -- how people can see you. 
+In some sense, PUBG (Mobile) is a game of "who sees who first".
 
+And preventing someone from seeing you is the same as being aware of the "sightlines" -- how people can see you. 
 
 
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">

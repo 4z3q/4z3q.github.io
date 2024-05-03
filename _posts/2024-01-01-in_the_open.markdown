@@ -60,16 +60,16 @@ Even with a holo sight and a mini, it's easy enough to take me out.
 <iframe src="https://player.vimeo.com/video/921822536?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
 width="480" height="360" frameborder="0" title="video"></iframe>
     </td><td valign="top">
-I think I even knew when I shoot them that it was a really bad idea. 
+I think I even knew when I was shoting at them that it was a really bad idea. 
 <br/><br/>
-Notice how they immediately jumps to try to avoid fire (not a good idea). Instead of immediately taking cover, 
-he turns around, which is risky. And, then they also walks out into the open while firing. 
+Notice how they immediately jump to try to avoid fire (not a good idea). Instead of immediately taking cover, 
+he turns around, which is risky. And, then they also walk out into the open while firing. 
   </td></tr>
   <tr><td>
 <iframe src="https://player.vimeo.com/video/921822563?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
 width="480" height="360" frameborder="0" title="video"></iframe>
     </td><td valign="top">
-He can barely see me with his red dot, but they has the m14, which is a spray machine, and they doesn't really need to 
+He can barely see me with his red dot, but they has the m14, which is a spray machine, so they don't really need to 
 see me. 
 <br/><br/>
 I can barely see him, so the odds are overwhelmingly in his favor. 
@@ -94,7 +94,6 @@ the open.
 <br/><br/>
 It's easy enough for them to get an angle. 
 <br/><br/>
-Note that there's lots of open space on Livik, and one of 
-the main challenges is crossing it safely. 
+Note that there's lots of open space on Livik, and one of the main challenges is crossing it safely. 
     </td></tr>
 </table>

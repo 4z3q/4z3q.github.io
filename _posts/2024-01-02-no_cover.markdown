@@ -10,10 +10,10 @@ It's one thing to run around in the open -- another mistake is to simply not use
 Simply having a shoot-out (both players in the open) gives me a low chance of surviving, and if the other player takes 
 cover and then re-engages, that gives me even lower chances of surviving. 
 
-Each engagement should be fought in phases or rounds, separated by when the pauses when cover is voluntarily (or 
-involuntarily) broken. 
+Each engagement should be fought in phases or rounds, where each phase starts when cover is voluntarily (or 
+involuntarily) broken. In between, either or both parties are taking cover. 
 
-Then, it becomes a game to see who can "break" each other's cover by getting a better angle on your opponent. 
+In this situation, it becomes a game to see who can "break" each other's cover by getting a better angle on your opponent. 
 
 Lastly, the maps in PUBG are made for this situation: there is very rarely a lone house on flat plain. In fact, 
 there's very rarely even a flat plain -- even in the wheat fields, there are haystacks. 
