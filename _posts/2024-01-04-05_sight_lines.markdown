@@ -47,30 +47,5 @@ A very good example of a third-party kill.
 <br/><br/>
 Also a good example of sightlines for buildings on a cliff. 
   </td></tr>
-  <tr><td>
-
-    </td><td valign="top">
-Comments
-</td></tr>
-  <tr><td>
-
-    </td><td valign="top">
-Comments
-</td></tr>
-  <tr><td>
-
-    </td><td valign="top">
-Comments
-</td></tr>
-  <tr><td>
-
-    </td><td valign="top">
-Comments
-</td></tr>
-  <tr><td>
-
-    </td><td valign="top">
-Comments
-</td></tr>
 </table>
 
